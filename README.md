@@ -18,8 +18,8 @@ This project delivers an end-to-end analysis of e-commerce electronics sales acr
 * **Best-Selling Products:** High-end laptops and flagship smartphones dominate revenue, led by the **Asus ROG Strix G16**, **Lenovo ThinkPad X1**, and **iPhone 15 Pro Max**.
 
 ## 🖼️ Dashboard Preview
-![E-Commerce Sales Dashboard](images/dashboard.png)
 
+![E-Commerce Sales Dashboard](Screenshot%202026-11-17%20034639.png)
 ## 📂 Repository Structure
 * `sql/` – SQL scripts used to build `vw_Sales_Dashboard`.
 * `powerbi/` – The `.pbix` Power BI report file.
